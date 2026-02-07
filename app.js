@@ -2,7 +2,7 @@ window.onload = () => {
     const button = document.querySelector('#btn');
     button.addEventListener('click', calculateBmi)
 } 
-//nakul
+//nakul  
   
 function calculateBmi() {
     const height = document.querySelector('#height').value;
@@ -41,5 +41,6 @@ function calculateBmi() {
 
 //javascript code
 //.......
+
 
 
